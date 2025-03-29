@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/v0ts/goit-react-hw-01-components",
+  "homepage": "https://v0ts.github.io/goit-react-hw-01-components/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
