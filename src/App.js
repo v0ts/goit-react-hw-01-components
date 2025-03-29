@@ -8,7 +8,7 @@ import transactions from "./transactions.json";
 import { TransactionHistory } from "./TransactionHistory/TransactionHistory";
 import "./App.css";
 
-export const App = () => {
+export function App() {
   return (
     <div className="App">
       <Profile
@@ -29,6 +29,6 @@ export const App = () => {
       <TransactionHistory items={transactions} />
     </div>
   );
-};
+}
 
-export default App
+export default App;
