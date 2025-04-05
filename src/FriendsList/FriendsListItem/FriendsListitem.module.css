@@ -1,0 +1,36 @@
+.item {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+	height: 50px;
+	width: 300px;
+	background-color: antiquewhite;
+	padding: 10px 20px;
+	border-radius: 20px;
+}
+
+.status {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.online {
+  background-color: green;
+}
+
+.offline {
+  background-color: red;
+}
+
+.avatar { 
+	height: 25px;
+	width: 25px;
+	border-radius: 5px;
+}
+
+.name { 
+	font-size: 20px;
+	font-weight: 400px;
+	text-align: center;
+}
